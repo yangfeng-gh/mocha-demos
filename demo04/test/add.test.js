@@ -1,3 +1,4 @@
+import 'babel-polyfill';
 import add from '../src/add.js';
 import chai from 'chai';
 
